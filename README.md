@@ -1,4 +1,4 @@
-# interview-project2
+# Interview Flexbox project
 
 ## Project setup
 ```
